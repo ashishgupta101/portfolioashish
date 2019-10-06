@@ -1,0 +1,163 @@
+.myname{background-color: aqua;
+}
+.main{
+    background-color: darksalmon;
+}
+h3{
+    background-color: yellow;
+    outline-color: black;
+    font-variant: small-caps;
+}
+
+	video {
+        margin-left: 56vw;
+        transform: translate(-50%);
+        background-color: black;
+      }
+div{
+    background-color: green;
+}
+
+div
+{
+    border-radius: 5px;
+    }
+#header
+{
+    position: fixed;
+    z-index: 1;
+    height:40px;
+    width: 98%;
+    background-color:RED;
+    margin-bottom: 10px
+    }
+
+#name {
+    float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: white;
+}
+
+#email{
+    float:right;
+    margin-right: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+#contact
+{
+    margin-left:45%;
+    padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+    }
+
+a:hover {
+    font-weight: bold;
+}
+#div8{
+    background-color: rgb(150, 236, 19);
+    font-style: italic;
+}
+#div4{
+    background-color: peru;
+    font-style: italic;
+}
+#div5{
+    background-color: orangered;
+    font-style: normal;
+ font-variant: small-caps;
+}
+#div6{
+    background-color: lightslategrey;
+    font-style: italic;
+}
+#div1{
+    background-color: rgba(12, 173, 152, 0.959);
+}
+#div2{
+    background-color: rgba(232, 232, 248, 0.589);
+}
+#div3{
+    background-color: goldenrod;
+    font-style: italic;
+}
+#div7{
+    background-color: blueviolet;
+}
+
+.right
+{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+    /*margin-right: -10px;
+    margin-left: 14%;*/
+    height: auto;
+    width: 99%;
+    background-color: blue;
+    
+#footer
+{
+    height:40px;
+    clear:both;
+    position: relative;
+    background-color: #C1E3E1;
+    }
+
+    
+h3
+{
+    text-decoration: underline;
+    }
+
+#job-responsibilities
+{
+    padding: 1px;
+    }
+.job-title
+{
+    font-weight: bold;
+    }
+table
+{
+    border: 1px dashed navy;
+    }
+td
+{
+    padding: 2px;
+    border: 3px mediumblue;
+    }
+
+#course-name
+{
+    font-weight:bold;
+    }
+    div{
+        background-color: rgba(198, 223, 235, 0.253);
+    }
+
+#company-name
+{
+    height:2px;
+    text-decoration:underline;
+    }
+#job-title
+{
+    height: 5px;
+    }
+.job-duration
+{
+    float:right;
+    }
+#heading
+{
+    font-weight:bold;
+    }
